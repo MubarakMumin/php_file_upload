@@ -1,2 +1,4 @@
 # php_file_upload
-using php we can upload files like image,pdf,others docs
+using PHP we can upload files like images, pdf, and other docs
+Author:Mubarak Hussin
+"
